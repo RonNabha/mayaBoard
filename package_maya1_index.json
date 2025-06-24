@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "Maya's Boards",
-      "websiteURL": "https://github.com/RonNabha/mayaBoard",
+      "websiteURL": "https://github.com/RonNabha",
       "maintainer": "Ron",
       "email": "ron@kirmayer.co.il",
       "help": {
@@ -14,7 +14,7 @@
           "architecture": "stm32",
           "version": "1.00.0",
           "category": "Contributed",
-          "url": "https://github.com/RonNabha/mayaBoard/releases/tag/tag/1.00.0.zip",
+          "url": "https://github.com/RonNabha/mayaBoard/blob/main/1.00.0.zip",
           "archiveFileName": "1.00.0.zip",
           "checksum": "sha256:e165d91b5d3465209fda733e46acca08b63d6baad878da0f03de9df27aa746e2",
           "size": "51086185",
