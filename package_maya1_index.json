@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "Maya's Boards",
-      "websiteURL": "https://github.com/RonNabha/maya1-stm32-board.git",
+      "websiteURL": "https://github.com/RonNabha/mayaBoard",
       "maintainer": "Ron",
       "email": "ron@kirmayer.co.il",
       "help": {
